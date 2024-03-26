@@ -1,0 +1,127 @@
+.login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: #BFDBFE;
+    background-image: url("./public/Artists/Images/loginimage2.jpg");
+    /* background-image: url("./public/Artists/Images/loginimage1.jpg"); */
+    background-size: cover;
+}
+
+.logindiv{
+    height: auto;
+  width: 400px;
+  padding: 8px;
+  border-radius: 20px;
+  border-width: 1px;
+  border-style: solid;
+  border-opacity: 0.1;
+  box-shadow: 0px 4px 16px rgb(207, 207, 207);
+  backdrop-filter: blur(20px);
+}
+.logindiv1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    img{
+      height: 100px;
+      cursor: pointer;
+    }
+}
+@keyframes rotateRightToLeft {
+  from {
+    transform: rotateY(0deg);
+  }
+  to {
+    transform: rotateY(-360deg);
+  }
+}
+
+.rotating-image {
+  animation: rotateRightToLeft 5s linear infinite; /* Adjust the duration and timing function as needed */
+}
+.logindiv2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+        h1{
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: #dfdfdf;
+    }
+}
+.loginform{
+    padding: 2rem;
+    width: 100%;
+}
+.loginmessage{
+    font-size: 15px;
+}
+.logininputdiv{
+    position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 0.75rem;
+}
+.input-field {
+    width: 100%;
+    height: 2.5rem;
+    padding-left: 1rem;
+    padding-right: 2rem;
+    border: 1px solid #bd0c0c;
+    border-radius: 0.375rem;
+    background-color: #0e6ece;
+    outline: none;
+  }
+.checkbox{
+    display: flex;
+    gap: 0.50rem;
+}
+.loginbutton{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+    margin-top: 10px;
+    
+}
+.loginbutton-button{
+    height: 2.5rem;
+    background-color: #2d3748;
+    transition: background-color 0.3s ease;
+  color: #fff;
+  border-radius: 0.375rem;
+  padding: 0.5rem;
+  width: 100%;
+  border: none;
+}
+.loginbutton-button:hover{
+  background-color: #475570;
+}
+
+.link-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.125rem;
+    margin-top: 25px;
+  }
+.signuplink {
+    padding-top: 0.5rem;
+    font-size: 0.875rem;
+    color: #dfdfdf;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
+  .signuplink:hover {
+    color: #c9c8c8;
+    text-decoration: underline;
+  }

@@ -1,0 +1,400 @@
+{
+  "Lists": [
+    {
+      "id": "1",
+      "name": "Prabesh .K Shrestha",
+      "title": "Timi Sangai",
+      "img": "./public/Artists/Images/Prabesh Kumar Shrestha.png",
+      "audio": "./public/Artists/Songs/Prabesh/Prabesh Kumar Shrestha - Timi Sangai [Official Music Video] Prod. Foeseal.mp3"
+    },
+  {
+      "id": "2",
+      "name": "Bipul Chhetri",
+      "title": "Asaar",
+      "img": "./public/Artists/Images/Bipul Chhetri.jpg",
+      "audio": "./public/Artists/Songs/Bipul/Bipul Chettri - Asaar (1).mp3"
+    },
+  {
+      "id": "3",
+      "name": "Sujan Chapagain",
+      "title": "Fulthunge Rani",
+      "img": "./public/Artists/Images/Sujan Chapagain.jpg",
+      "audio": "./public/Artists/Songs/Sujan/Sujan Chapagain _ Fulthunge Rani [ फूलथुङ्गे रानी ] Katakkai Mann Khani Feat. Al (1).mp3"
+    },
+  {
+      "id": "4",
+      "name": "The Elements",
+      "title": "Birsiney Hau Ki",
+      "img": "./public/Artists/Images/The Elements.jpg",
+      "audio": "./public/Artists/Songs/Elements/Birsiney Hau Ki - The Elements _ Tuborg Open Sessions.mp3"
+    },
+    {
+      "id": "10",
+    "name": "Bipul Chhetri",
+    "title": "Wildfire",
+    "img": "./public/Artists/Images/Bipul Chhetri.jpg",
+    "audio": "./public/Artists/Songs/Bipul/Bipul Chettri - Wildfire (Dadhelo).mp3"
+  },
+  {
+      "id": "5",
+      "name": "Tribal Rain",
+      "title": "Chinta",
+      "img": "./public/Artists/Images/Tribal Rain.jpg",
+      "audio": "./public/Artists/Songs/Tribal/CHINTA Live 2017 In memory of Lt Rahul Rai.mp3"
+    },
+    {
+      "id": "6",
+      "name": "Bipul Chhetri",
+      "title": "Aashish",
+      "img": "./public/Artists/Images/Bipul Chhetri.jpg",
+      "audio": "./public/Artists/Songs/Bipul/Bipul Chettri - Aashish (Official Video).mp3"
+    },
+    {
+      "id": "15",
+      "name": "The Elements",
+      "title": "Urja",
+      "img": "./public/Artists/Images/The Elements.jpg",
+      "audio": "./public/Artists/Songs/Elements/Urja _ The Elements.mp3"
+    },
+    {
+      "id": "7",
+      "name": "Bipul Chhetri",
+      "title": "Syndicate",
+      "img": "./public/Artists/Images/Bipul Chhetri.jpg",
+      "audio": "./public/Artists/Songs/Bipul/Bipul Chettri - Syndicate (Album - Maya).mp3"
+    },
+    {
+      "id": "8",
+      "name": "Bipul Chhetri",
+      "title": "Junkeri_Fireflies",
+      "img": "./public/Artists/Images/Bipul Chhetri.jpg",
+      "audio": "./public/Artists/Songs/Bipul/Bipul Chettri - Junkeri_Fireflies (Album - Maya).mp3"
+    },
+  {
+      "id": "13",
+      "name": "The Elements",
+    "title": "Tyaag",
+    "img": "./public/Artists/Images/The Elements.jpg",
+    "audio": "./public/Artists/Songs/Elements/Tyaag _ The Elements.mp3"
+  },
+  {
+    "id": "19",
+    "name": "Prabesh .K Shrestha",
+  "title": "Laijau Na",
+  "img": "./public/Artists/Images/Prabesh Kumar Shrestha.png",
+  "audio": "./public/Artists/Songs/Prabesh/Prabesh Kumar Shrestha - Laijau Na [Official Lyrical Video] Prod. Foeseal.mp3"
+  },
+  {
+    "id": "14",
+    "name": "The Elements",
+  "title": "Uphaar",
+  "img": "./public/Artists/Images/The Elements.jpg",
+  "audio": "./public/Artists/Songs/Elements/Upahar _ The Elements.mp3"
+},
+    {
+      "id": "16",
+      "name": "Prabesh .K Shrestha",
+      "title": "Aau Timi",
+      "img": "./public/Artists/Images/Prabesh Kumar Shrestha.png",
+      "audio": "./public/Artists/Songs/Prabesh/Prabesh Kumar Shrestha - Aau Timi [Official Lyrical Video] Prod. Foeseal.mp3"
+    },
+    {
+      "id": "23",
+      "name": "Tribal Rain",
+      "title": "Swarga",
+      "img": "./public/Artists/Images/Tribal Rain.jpg",
+      "audio": "./public/Artists/Songs/Tribal/“Swarga” official Audio Lyrical video.mp3"
+    },
+  {
+    "id": "17",
+    "name": "Prabesh .K Shrestha",
+    "title": "Adhuro",
+    "img": "./public/Artists/Images/Prabesh Kumar Shrestha.png",
+    "audio": "./public/Artists/Songs/Prabesh/Prabesh Kumar Shrestha - Adhuro [Original].mp3"
+  },
+{
+  "id": "20",
+      "name": "Sujan Chapagain",
+      "title": "Gala Pukka",
+      "img": "./public/Artists/Images/Sujan Chapagain.jpg",
+      "audio": "./public/Artists/Songs/Sujan/Sujan Chapagain __ Gala Pukka - Ma Fakauchu Bhanera Hola [Official Lyrical Video.mp3"
+    },
+    {
+      "id": "21",
+          "name": "Sujan Chapagain",
+          "title": "Lajayera",
+          "img": "./public/Artists/Images/Sujan Chapagain.jpg",
+          "audio": "./public/Artists/Songs/Sujan/Sujan Chapagain __ LAJAYERA - Aba Ta Badhiyeko Kesh __ Official Lyrical Video __.mp3"
+    },
+    {
+      "id": "25",
+      "name": "Tribal Rain",
+      "title": "Sahara",
+      "img": "./public/Artists/Images/Tribal Rain.jpg",
+      "audio": "./public/Artists/Songs/Tribal/Sahara Live Session.mp3"
+    },
+    {
+      "id": "27",
+      "name": "Sajjan Raj Vaidya",
+      "title": "Phutki Janey Joban",
+      "img": "./public/Artists/Images/Sajjan Raj Vaidya.jpg",
+      "audio": "./public/Artists/Songs/Sajjan Raj Vaidya/Sajjan Raj Vaidya - Phutki Jaaney Jovan [Official Video].mp3"
+    },
+    {
+      "id": "28",
+      "name": "Khuman & Kalpana",
+      "title": "Ramko Paitalama",
+      "img": "./public/Artists/Images/Bhajanimage.png",
+      "audio": "./public/Artists/Songs/Bhajan/Latest Lok Bhajan Ramayan _ Ramko Paitalama - Khuman Adhikari & Kalpana Paudel.mp3"
+    },
+    {
+      "id": "29",
+      "name": "Bhajan Kirtan",
+      "title": "Nepali Bhajan",
+      "img": "./public/Artists/Images/Bhajanimage.png",
+      "audio": "./public/Artists/Songs/Bhajan/Nepali Vajan.mp3"
+    },
+    {
+      "id": "30",
+      "name": "Swaroopraj & Laxmi",
+      "title": "Dadah Ghare Saili",
+      "img": "./public/Artists/Images/Dohoriimage.jpg",
+      "audio": "./public/Artists/Songs/Dohori/Dada Ghare Saili by Swaroopraj Acharya & Laxmi Malla _ Ft. Prakash, Shilpa, Kari.mp3"
+    },
+    {
+      "id": "31",
+      "name": "Prakash Dutraj",
+      "title": "Ghar Kata Ho Bainiko",
+      "img": "./public/Artists/Images/Dohoriimage.jpg",
+      "audio": "./public/Artists/Songs/Dohori/Ghar Kata Ho Bainiko.mp3"
+    }
+  ],
+  "Prabesh":[
+    {
+      "id": "16",
+      "name": "Prabesh .K Shrestha",
+      "title": "Aau Timi",
+      "img": "./public/Artists/Images/Prabesh Kumar Shrestha.png",
+      "audio": "./public/Artists/Songs/Prabesh/Prabesh Kumar Shrestha - Aau Timi [Official Lyrical Video] Prod. Foeseal.mp3"
+    },
+  {
+    "id": "17",
+    "name": "Prabesh .K Shrestha",
+    "title": "Adhuro",
+    "img": "./public/Artists/Images/Prabesh Kumar Shrestha.png",
+    "audio": "./public/Artists/Songs/Prabesh/Prabesh Kumar Shrestha - Adhuro [Original].mp3"
+  },
+  {
+      "id": "18",
+      "name": "Prabesh .K Shrestha",
+    "title": "Adhuro",
+    "img": "./public/Artists/Images/Prabesh Kumar Shrestha.png",
+    "audio": "./public/Artists/Songs/Prabesh/Prabesh Kumar Shrestha - Darauchha Mann [Official Lyrical Video] Prod. Foeseal.mp3"
+  },
+  {
+    "id": "19",
+    "name": "Prabesh .K Shrestha",
+  "title": "Laijau Na",
+  "img": "./public/Artists/Images/Prabesh Kumar Shrestha.png",
+  "audio": "./public/Artists/Songs/Prabesh/Prabesh Kumar Shrestha - Laijau Na [Official Lyrical Video] Prod. Foeseal.mp3"
+},
+{
+  "id": "1",
+  "name": "Prabesh .K Shrestha",
+  "title": "Timi Sangai",
+  "img": "./public/Artists/Images/Prabesh Kumar Shrestha.png",
+  "audio": "./public/Artists/Songs/Prabesh/Prabesh Kumar Shrestha - Timi Sangai [Official Music Video] Prod. Foeseal.mp3"
+}
+  ],
+  "TribalRain":[
+    {
+      "id": "23",
+      "name": "Tribal Rain",
+      "title": "Swarga",
+      "img": "./public/Artists/Images/Tribal Rain.jpg",
+      "audio": "./public/Artists/Songs/Tribal/“Swarga” official Audio Lyrical video.mp3"
+    },
+    {
+      "id": "25",
+      "name": "Tribal Rain",
+      "title": "Sahara",
+      "img": "./public/Artists/Images/Tribal Rain.jpg",
+      "audio": "./public/Artists/Songs/Tribal/Sahara Live Session.mp3"
+    },
+    {
+      "id": "5",
+      "name": "Tribal Rain",
+      "title": "Chinta",
+      "img": "./public/Artists/Images/Tribal Rain.jpg",
+      "audio": "./public/Artists/Songs/Tribal/CHINTA Live 2017 In memory of Lt Rahul Rai.mp3"
+    }
+  ],
+  "BipulChhetri":[
+    {
+      "id": "2",
+      "name": "Bipul Chhetri",
+      "title": "Asaar",
+      "img": "./public/Artists/Images/Bipul Chhetri.jpg",
+      "audio": "./public/Artists/Songs/Bipul/Bipul Chettri - Asaar (1).mp3"
+    },
+    {
+      "id": "6",
+      "name": "Bipul Chhetri",
+      "title": "Aashish",
+      "img": "./public/Artists/Images/Bipul Chhetri.jpg",
+      "audio": "./public/Artists/Songs/Bipul/Bipul Chettri - Aashish (Official Video).mp3"
+    },
+  {
+      "id": "7",
+      "name": "Bipul Chhetri",
+      "title": "Syndicate",
+      "img": "./public/Artists/Images/Bipul Chhetri.jpg",
+      "audio": "./public/Artists/Songs/Bipul/Bipul Chettri - Syndicate (Album - Maya).mp3"
+    },
+    {
+      "id": "8",
+      "name": "Bipul Chhetri",
+      "title": "Junkeri_Fireflies",
+      "img": "./public/Artists/Images/Bipul Chhetri.jpg",
+      "audio": "./public/Artists/Songs/Bipul/Bipul Chettri - Junkeri_Fireflies (Album - Maya).mp3"
+    },
+  {
+    "id": "10",
+    "name": "Bipul Chhetri",
+    "title": "Wildfire",
+    "img": "./public/Artists/Images/Bipul Chhetri.jpg",
+    "audio": "./public/Artists/Songs/Bipul/Bipul Chettri - Wildfire (Dadhelo).mp3"
+  }
+  ],
+  "SujanChapagain":[
+    {
+      "id": "3",
+      "name": "Sujan Chapagain",
+      "title": "Fulthunge Rani",
+      "img": "./public/Artists/Images/Sujan Chapagain.jpg",
+      "audio": "./public/Artists/Songs/Sujan/Sujan Chapagain _ Fulthunge Rani [ फूलथुङ्गे रानी ] Katakkai Mann Khani Feat. Al (1).mp3"
+    },
+    {
+      "id": "20",
+          "name": "Sujan Chapagain",
+          "title": "Gala Pukka",
+          "img": "./public/Artists/Images/Sujan Chapagain.jpg",
+          "audio": "./public/Artists/Songs/Sujan/Sujan Chapagain __ Gala Pukka - Ma Fakauchu Bhanera Hola [Official Lyrical Video.mp3"
+        },
+        {
+          "id": "21",
+              "name": "Sujan Chapagain",
+              "title": "Lajayera",
+              "img": "./public/Artists/Images/Sujan Chapagain.jpg",
+              "audio": "./public/Artists/Songs/Sujan/Sujan Chapagain __ LAJAYERA - Aba Ta Badhiyeko Kesh __ Official Lyrical Video __.mp3"
+        }
+  ],
+  "TheElements":[
+    {
+      "id": "4",
+      "name": "The Elements",
+      "title": "Birsiney Hau Ki",
+      "img": "./public/Artists/Images/The Elements.jpg",
+      "audio": "./public/Artists/Songs/Elements/Birsiney Hau Ki - The Elements _ Tuborg Open Sessions.mp3"
+    },
+  {
+      "id": "13",
+      "name": "The Elements",
+    "title": "Tyaag",
+    "img": "./public/Artists/Images/The Elements.jpg",
+    "audio": "./public/Artists/Songs/Elements/Tyaag _ The Elements.mp3"
+  },
+  {
+    "id": "14",
+    "name": "The Elements",
+  "title": "Uphaar",
+  "img": "./public/Artists/Images/The Elements.jpg",
+  "audio": "./public/Artists/Songs/Elements/Upahar _ The Elements.mp3"
+},
+  {
+    "id": "15",
+    "name": "The Elements",
+    "title": "Urja",
+    "img": "./public/Artists/Images/The Elements.jpg",
+    "audio": "./public/Artists/Songs/Elements/Urja _ The Elements.mp3"
+  }
+  ],
+  "booster":[
+    {
+      "id": "14",
+      "name": "The Elements",
+    "title": "Uphaar",
+    "img": "./public/Artists/Images/The Elements.jpg",
+    "audio": "./public/Artists/Songs/Elements/Upahar _ The Elements.mp3"
+  },
+    {
+      "id": "15",
+      "name": "The Elements",
+      "title": "Urja",
+      "img": "./public/Artists/Images/The Elements.jpg",
+      "audio": "./public/Artists/Songs/Elements/Urja _ The Elements.mp3"
+    },
+    {
+        "id": "7",
+        "name": "Bipul Chhetri",
+        "title": "Syndicate",
+        "img": "./public/Artists/Images/Bipul Chhetri.jpg",
+        "audio": "./public/Artists/Songs/Bipul/Bipul Chettri - Syndicate (Album - Maya).mp3"
+      }
+  ],
+  "happy":[
+    {
+      "id": "20",
+          "name": "Sujan Chapagain",
+          "title": "Gala Pukka",
+          "img": "./public/Artists/Images/Sujan Chapagain.jpg",
+          "audio": "./public/Artists/Songs/Sujan/Sujan Chapagain __ Gala Pukka - Ma Fakauchu Bhanera Hola [Official Lyrical Video.mp3"
+    },
+    {
+          "id": "21",
+              "name": "Sujan Chapagain",
+              "title": "Lajayera",
+              "img": "./public/Artists/Images/Sujan Chapagain.jpg",
+              "audio": "./public/Artists/Songs/Sujan/Sujan Chapagain __ LAJAYERA - Aba Ta Badhiyeko Kesh __ Official Lyrical Video __.mp3"
+    },
+    {
+      "id": "26",
+      "name": "Tribal Rain",
+      "title": "Khola",
+      "img": "./public/Artists/Images/Tribal Rain.jpg",
+      "audio": "./public/Artists/Songs/Tribal/tribal-rain-khola-live-session.mp3"
+    }
+  ],
+  "dohori":[
+    {
+      "id": "30",
+      "name": "Swaroopraj & Laxmi",
+      "title": "Dadah Ghare Saili",
+      "img": "./public/Artists/Images/Dohoriimage.jpg",
+      "audio": "./public/Artists/Songs/Dohori/Dada Ghare Saili by Swaroopraj Acharya & Laxmi Malla _ Ft. Prakash, Shilpa, Kari.mp3"
+    },
+    {
+      "id": "31",
+      "name": "Prakash Dutraj",
+      "title": "Ghar Kata Ho Bainiko",
+      "img": "./public/Artists/Images/Dohoriimage.jpg",
+      "audio": "./public/Artists/Songs/Dohori/Ghar Kata Ho Bainiko.mp3"
+    }
+  ],
+  "bhajan":[
+    {
+      "id": "28",
+      "name": "Khuman & Kalpana",
+      "title": "Ramko Paitalama",
+      "img": "./public/Artists/Images/Bhajanimage.png",
+      "audio": "./public/Artists/Songs/Bhajan/Latest Lok Bhajan Ramayan _ Ramko Paitalama - Khuman Adhikari & Kalpana Paudel.mp3"
+    },
+    {
+      "id": "29",
+      "name": "Bhajan Kirtan",
+      "title": "Nepali Bhajan",
+      "img": "./public/Artists/Images/Bhajanimage.png",
+      "audio": "./public/Artists/Songs/Bhajan/Nepali Vajan.mp3"
+    }
+  ]
+}

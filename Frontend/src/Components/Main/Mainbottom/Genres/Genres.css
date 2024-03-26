@@ -1,0 +1,45 @@
+.genres{
+    height: 230px;
+    width: 40%;
+    background-color: #4a4a4a;
+    border-radius: 10px;
+}
+.genrestext{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    /* background-color: aqua; */
+    margin: 5px;
+    span{
+        font-size: 15px;
+        color: #dfdfdf;
+        cursor: pointer;
+    }
+}
+
+.genrescards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 10px;
+    height: auto;
+    /* width: 320px; */
+    /* background-color: aqua; */
+    border-radius: 10px;
+    flex-wrap: wrap;
+    color: #dfdfdf;
+    font-size: 15px;
+}
+.singlecard{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 10px;
+    height: 70px;
+    width: 110px;
+    /* background-color: rgb(12, 133, 133); */
+    border-radius: 10px;
+    cursor: pointer;
+}

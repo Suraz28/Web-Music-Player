@@ -1,0 +1,74 @@
+.sidegenres{
+    z-index: 999;
+    display: flex;
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    background: transparent;
+    backdrop-filter: blur(5px);
+    /* background-color: aqua; */
+    align-items: center;
+    justify-content: center;
+    color: #dfdfdf;
+}
+
+.sidegenresdiv{
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    width: 50vw;
+    justify-content: flex-start;
+    align-items: flex-start;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: var(--black);
+    h3{
+        line-height: 0;
+        margin: 10px;
+    }
+}
+
+.sidegenredivtexts{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.playlistList {
+    border-radius: 4px;
+    max-height: 100%;
+    overflow-y: auto;
+    width: 100%;
+    margin: 10px 0 0 0;
+  }
+  
+.playlistitemlists{
+    background-color: #16435e;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+    border-bottom: 1px solid #808080;
+    height: 80px;
+    border-radius: 5px;
+    
+  }
+  .searchtext{
+    line-height: 0;
+  }
+  .searchname{
+    font-size: 12px;
+  }
+  .searchimage img{
+    height: 60px;
+  }
+  .musicList > div {
+    margin-bottom: 5px;
+  }
+  .listaudiolength{
+    margin-right: 20px;
+    font-size: 15px;
+  }
+

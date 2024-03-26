@@ -1,0 +1,111 @@
+.wholeside{
+    display: flex;
+    width: 100vw;
+}
+.side2{
+    display: flex;
+    flex-direction: column;
+}
+.sidebar{
+    width: 20vw;
+    height: 100vh;
+    /* background-color: aqua; */
+    /* position: fixed; */
+    color: whitesmoke;
+    background-color: var(--black);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 20px;
+    transition: width 1s ease;
+    /* border: 10px sloid black; */
+}
+.menulogo{
+    height: 100%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.logo{
+    height: 70px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.logo img{
+    height: 70px;
+    /* background-color: aqua; */
+    border-radius: 50%;
+}
+.menulogo .sidebarcategory{
+    color: #dfdfdf;
+    /* background-color: blueviolet; */
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    gap: 20px;
+    justify-content: space-between;
+}
+.menu, .playlist, .library{
+    /* background-color: blue; */
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    max-height: 100%;
+    h5{
+        line-height: 0;
+        width: 100%;
+        align-items: flex-start;
+    }
+}
+.menuitems{
+    width: 100%;
+    /* padding: 10px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    /* background-color: rgb(182, 36, 145); */
+    height: 100%;
+    gap: 15px;
+    span{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        /* background-color: aqua; */
+        font-size: 15px;
+        cursor: pointer;
+        width: auto;
+        justify-content: center;
+    }
+    span:hover{
+        color: var(--hover);
+    }
+}
+
+.sidebar.collapsed {
+    width: 80px;
+    .button, span, h5, .appbutton{
+    display: none;
+}
+}
+
+.usericon:hover{
+   color: #ffbb00;
+}
+
+.appbutton{
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}

@@ -1,0 +1,64 @@
+.maingenre{
+    /* z-index: 999; */
+    display: flex;
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    background: transparent;
+    backdrop-filter: blur(5px);
+    /* background-color: aqua; */
+    align-items: center;
+    justify-content: center;
+    color: #dfdfdf;
+}
+.maingenrediv{
+    height: 230px;
+    width: 45%;
+    background-color: #4a4a4a;
+    border-radius: 10px;
+}
+.maingenre-text{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    /* background-color: aqua; */
+    margin: 5px;
+    span{
+        font-size: 15px;
+        color: #dfdfdf;
+        cursor: pointer;
+    }
+}
+
+.maingenre-cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 10px;
+    height: auto;
+    /* width: 320px; */
+    /* background-color: aqua; */
+    border-radius: 10px;
+    flex-wrap: wrap;
+    color: #dfdfdf;
+    font-size: 15px;
+}
+.maingenre-singlecard{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 10px;
+    height: 70px;
+    width: 110px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #333333;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+}
+.maingenre-singlecard:hover{
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4);
+    background-color: #646464;
+    color: #dfdfdf;
+}
