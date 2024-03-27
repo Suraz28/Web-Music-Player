@@ -19,7 +19,7 @@ const Genrehappy = () => {
     };
 
     const { data: artists, isLoading, isError, error } = useQuery({
-        queryKey: ["artists"],
+        queryKey: ["happy"],
         queryFn: fetchArtists,
     });
 

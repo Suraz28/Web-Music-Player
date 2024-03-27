@@ -19,7 +19,7 @@ const Artisttribalrain = () => {
     };
 
     const { data: artists, isLoading, isError, error } = useQuery({
-        queryKey: ["artists"],
+        queryKey: ["tribalrain"],
         queryFn: fetchArtists,
     });
 

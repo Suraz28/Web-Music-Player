@@ -11,7 +11,7 @@ const Genredohori = () => {
     const [audioDurations, setAudioDurations] = useState({});
 
     const fetchArtists = async () => {
-        const response = await fetch("http://localhost:3000/Dohori");
+        const response = await fetch("http://localhost:3000/dohori");
         if (!response.ok) {
             throw new Error("Error fetching data");
         }
@@ -19,7 +19,7 @@ const Genredohori = () => {
     };
 
     const { data: artists, isLoading, isError, error } = useQuery({
-        queryKey: ["artists"],
+        queryKey: ["dohori"],
         queryFn: fetchArtists,
     });
 

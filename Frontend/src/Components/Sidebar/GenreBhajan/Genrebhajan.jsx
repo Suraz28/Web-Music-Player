@@ -19,7 +19,7 @@ const Genrebhajan = () => {
     };
 
     const { data: artists, isLoading, isError, error } = useQuery({
-        queryKey: ["artists"],
+        queryKey: ["bhajan"],
         queryFn: fetchArtists,
     });
 

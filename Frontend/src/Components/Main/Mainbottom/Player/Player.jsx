@@ -26,11 +26,7 @@ const Player = () => {
   const { data: songsList, isLoading, isError, error } = useQuery({
     queryKey: ["list"],
     queryFn: Fetch,
-    queries:
-    {
-      staleTime: Infinity,
-      refetchOnMount: false,
-    }
+    staleTime: Infinity,
   });
   
   useEffect(() => {

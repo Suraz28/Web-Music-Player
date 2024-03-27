@@ -19,7 +19,7 @@ const Artistelements = () => {
     };
 
     const { data: artists, isLoading, isError, error } = useQuery({
-        queryKey: ["artists"],
+        queryKey: ["theelements"],
         queryFn: fetchArtists,
     });
 

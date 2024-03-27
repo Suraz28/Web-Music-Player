@@ -19,7 +19,7 @@ const Sidegenres = () => {
     };
 
     const { data: artists, isLoading, isError, error } = useQuery({
-        queryKey: ["artists"],
+        queryKey: ["booster"],
         queryFn: fetchArtists,
     });
 
