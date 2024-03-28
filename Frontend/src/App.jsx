@@ -28,8 +28,8 @@ import Admin from './Components/Admin/Admin';
 
 function App() {
   return (
-    <Router>
       <MusicProvider>
+    <Router>
         <FormProvider>
         <Provider store={store}>
           <div style={{ display: "flex" }}>
@@ -60,8 +60,8 @@ function App() {
           </div>
         </Provider>
         </FormProvider>
-      </MusicProvider>
     </Router>
+      </MusicProvider>
   );
 }
 
