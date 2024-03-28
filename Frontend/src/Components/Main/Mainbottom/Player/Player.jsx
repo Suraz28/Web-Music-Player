@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import "./Player.css";
 import { IoIosShuffle, IoMdRepeat } from "react-icons/io";
 import { MdSkipPrevious, MdSkipNext } from "react-icons/md";
@@ -11,7 +11,8 @@ const Player = () => {
     duration,
     formatTime,
     handleTimeChange, repeatMode, toggleRepeatMode, playPreviousSong, playNextSong,
-    audioRef, shuffleMode, toggleShuffleMode} = useMusicContext();
+    audioRef, toggleShuffleMode,
+    shuffleMode} = useMusicContext();
 
   return (
     <div className='player'>

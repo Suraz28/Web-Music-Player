@@ -31,7 +31,6 @@ export const MusicProvider = ({ children }) => {
   const { data: songsList, isLoading, isError, error } = useQuery({
     queryKey: ["list"],
     queryFn: Fetch,
-    staleTime: Infinity,
   });
   
   useEffect(() => {
@@ -218,7 +217,9 @@ export const MusicProvider = ({ children }) => {
         setCurrentIndex,
         songsList,
         audioRef,
-        toggleShuffleMode
+        toggleShuffleMode,
+        shuffleMode,
+        setShuffleMode
       }}
     >
       {children}
