@@ -1,3 +1,5 @@
+This is a vite + React project.
+
 #Screenshots: 
 ![image](https://github.com/Suraz28/Web-Music-Player/assets/82082451/571b92ad-ec54-452e-ba69-d2289b693bb4)
 
